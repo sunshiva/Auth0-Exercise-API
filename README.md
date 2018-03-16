@@ -35,7 +35,7 @@ Also need to
 Rename the `.env.example` file to `.env`. Once you have renamed the file you should set the following values in this file:
 
 - `{AUTH0_DOMAIN}`: Set this to the value of your Auth0 Domain. You can retrieve it from the *Settings* of your Client at the [Auth0 Dashboard](https://manage.auth0.com/#/clients).
-- `{API_IDENTIFIER}`: Set this to the value of your API Identifier (audience). You can retrieve it from the *Settings* of your API at the [Auth0 Dashboard](https://manage.auth0.com/#/apis).
+- `{AUTH0_AUDIENCE}`: Set this to the value of your API Identifier (audience). You can retrieve it from the *Settings* of your API at the [Auth0 Dashboard](https://manage.auth0.com/#/apis).
 
 ## Deploy & Run
 
